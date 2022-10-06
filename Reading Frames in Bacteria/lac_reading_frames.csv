@@ -1,0 +1,39 @@
+Predictions 
+Origional DNA Strand 
+ ,Start Coordinate Prediciton, End Coordinate Prediciton 
+ATG
+,12,329
+,370,1161
+,1284,4358
+,4410,5663
+,5733,6338
+GTG
+,70,1161
+,1491,4358
+,4662,5663
+,5718,6338
+TTG
+,262,1161
+,1437,4358
+,5082,5663
+,5727,6338
+Complement DNA Strand 
+ ,Start Coordinate Prediciton, End Coordinate Prediciton 
+ATG
+,600,1037
+,3946,4257
+,5007,5321
+GTG
+,360,1037
+,1179,1490
+,4938,5321
+,7064,7384
+TTG
+,597,1037
+,7049,7384
+Actual Reading Frames from File 
+ ,Start Coordinate Actual, End Coordinate Actual 
+,79,1161
+,1284,4358
+,4410,5663
+,5727,6338
